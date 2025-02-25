@@ -14,7 +14,7 @@ To place an order, just do the following steps:
 6. Choose a delivery address, a method and a date of the delivery.
 ![Delivery](images/delivery.png)
 7. If you have a promocode you'll need to enter it by clicking **Enter promocode**.
-![Enter promocode](images/enterpromocode.png) 
+![Enter promocode](images/enter_promocode.png) 
 8. Pay for the order by clicking **Place order**. <br>
     An email confirmation will be sent to your registered email address. <br>
     Also we will notify you when your delivery leaves our warehouse and provide you with your tracking number.
