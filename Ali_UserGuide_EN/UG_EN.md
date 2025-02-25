@@ -2,7 +2,7 @@
 To place an order, just do the following steps:
 
 1. Once you decided what goods you wish to purchase add them to the shopping cart by clicking **Add to cart**.
-![Add to cart](images/addtocart.png)
+![Add to cart](./images/addtocart.png)
 2. Open the **Cart** section on the navigation bar.
 ![Cart](images/cart.png)
 3. In your cart you will find an overview of all the goods you have added. If you are happy with the selection click **Checkout** to proceed to payment and complete your order.
