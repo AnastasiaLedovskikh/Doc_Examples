@@ -2,7 +2,7 @@
 To place an order, just do the following steps:
 
 1. Once you decided what goods you wish to purchase add them to the shopping cart by clicking **Add to cart**.
-![](images/addtocart.png)
+![Add to cart](images/add_to_cart.png)
 2. Open the **Cart** section on the navigation bar.
 ![Cart](images/cart.png)
 3. In your cart you will find an overview of all the goods you have added. If you are happy with the selection click **Checkout** to proceed to payment and complete your order.
@@ -10,7 +10,7 @@ To place an order, just do the following steps:
 4. In checkout, select a recipient, a phone number and a delivery address. 
 ![Recipient](images/recipient.png)
 5. Choose preferred payment method.
-![Payment method](images/paymentmethod.png)
+![Payment method](images/payment_method.png)
 6. Choose a delivery address, a method and a date of the delivery.
 ![Delivery](images/delivery.png)
 7. If you have a promocode you'll need to enter it by clicking **Enter promocode**.
